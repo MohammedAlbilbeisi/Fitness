@@ -1,0 +1,46 @@
+.DM .sp{
+    display: inline-block;
+    background-color: gainsboro;
+    width: 200px;
+    height:50px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.DM{
+    
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.PH{
+    margin-top: 10px;
+    text-align: center;
+    width: 150px;
+    height: 30px;
+        background-color: gainsboro;
+margin-left: 100px;
+}
+.DM2{
+    
+    margin-top: 100px;
+}
+.DM3,.DM4{
+    
+    width: 500px;
+    height: 50px;
+            background-color: gainsboro;
+    margin-left: 100px;
+
+    
+
+}
+.t1,.t2{
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.t2{
+    margin-top: 20px;
+    
+}

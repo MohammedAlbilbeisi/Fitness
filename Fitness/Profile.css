@@ -1,0 +1,41 @@
+
+.fa-user:before{
+            font-size: 88px;
+margin-left: 666px;
+    margin-top: 600px;
+}
+
+.fa-user:before {
+                font-size: 118px;
+    margin-bottom: 50px;
+    padding-bottom: 100px;
+
+}
+
+p{
+    
+    width: 100px;
+    height: 50px;
+    background-color: #adb5bd;
+    margin-left: 100px;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.p{
+    
+    border-radius: 50%;
+    width:74px;
+    height: 75px;
+        background-color: #adb5bd;
+    text-align: center;
+    padding-top: 23px;
+    margin-left: 110px;
+
+}
+.Home{
+    margin-top: 100px;
+}
+h1{
+    text-align: center
+}
